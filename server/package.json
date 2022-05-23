@@ -1,0 +1,23 @@
+{
+  "name": "uu-project-cookbook-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "team 03",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-async-errors": "^3.1.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.2.9",
+    "zod": "^3.14.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
