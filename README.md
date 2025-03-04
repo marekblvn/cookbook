@@ -7,14 +7,7 @@ The goal of the class was to make a cloud web application using JavaScript. The 
 The vision behind the application is to create an application where users can share their recipes with others. It's pretty much just like any other online cookbook.
 
 #### How can I try it?
-Since it was created as a class project, the application is not deployed anywhere. If you'd like to run it locally, just add `.env` files to `/server` with the following attributes:
-
-```
-PORT=3001
-DB_URI=string (e.g. MongoDB connection string)
-```
-
-And then just run the client and server apps.
+Since it was created as a class project, the application is not deployed anywhere. But feel free to go through the code.
 
 
 <br />
